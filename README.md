@@ -9,7 +9,7 @@ It centralizes academic resources, verified campus updates, club planning, hacka
 
 ## 🌐 Live Platform
 
-🔗 **Academic Portal**: [https://op.iitg.ac.in  ](https://oesiitgop.vercel.app/)
+🔗 **Academic Portal**: [https://opstud.vercel.app  ](https://opstud.vercel.app/)
 *(Accessible only to verified college users)*
 
 ---
